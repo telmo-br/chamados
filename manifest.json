@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Chamados TI",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Chamados",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
