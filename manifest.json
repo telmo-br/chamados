@@ -1,13 +1,17 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "Chamados TI",
-  "orientation": "any",
-  "scope": "/",
   "short_name": "Chamados",
-  "start_url": "/",
-  "theme_color": "#ffffff",
-  "id": "TI",
-  "description": "Um app para facilitar uma abertura de chamados"
+  "description": "Sistema profissional de registro de atendimento de suporte de TI",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0056b3",
+  "icons": [
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
