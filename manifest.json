@@ -7,5 +7,7 @@
   "scope": "/",
   "short_name": "Chamados",
   "start_url": "/",
-  "theme_color": "#ffffff"
+  "theme_color": "#ffffff",
+  "id": "TI",
+  "description": "Um app para facilitar uma abertura de chamados"
 }
